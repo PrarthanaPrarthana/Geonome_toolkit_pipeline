@@ -19,10 +19,4 @@ To use the Genome Toolkit, follow these steps:
 2. Navigate to the project directory.
 3. Run the desired script with appropriate command-line arguments.
 
-## Example
-```bash
-python amplicon_align.py -1 assembly1.fna -2 assembly2.fna -p primers.fna -m 2000 --match 1 --mismatch -1 --gap -1
-
-./1.py
-./2.py 
 
